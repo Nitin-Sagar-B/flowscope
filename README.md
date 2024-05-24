@@ -79,6 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgements
 
-This project was developed as part of a research initiative at BVRIT Hyderabad College of Engineering for Women. Special thanks to our mentors and colleagues for their support and guidance.
+This project was developed as part of a research initiative at BVRIT, Narsapur. Special thanks to our mentors and colleagues for their support and guidance.
 
 ---
