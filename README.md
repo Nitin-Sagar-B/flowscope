@@ -2,6 +2,8 @@
 
 ### Enhancing Decision Making and Prediction Optimization using the HybridFlow Forecast Model
 
+### You can access the live demo of the app hosted on Streamlit's Community Cloud using the link: https://flowscope.streamlit.app/
+
 ## 📖 Overview
 
 FlowScope is an advanced web application designed to improve decision-making and prediction accuracy for web traffic analysis using the HybridFlow Forecast Model. The model combines several state-of-the-art time series forecasting techniques, including ARIMA, SARIMA, ETS, and LSTM, to deliver robust and accurate predictions. This project is particularly focused on the analysis and forecasting of web traffic, allowing businesses to make data-driven decisions to optimize their operations.
