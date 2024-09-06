@@ -67,8 +67,9 @@ To run FlowScope locally, follow these steps:
 ### Developers and Innovators
 
 - **B Susheel**
-  - [📧 Email](mailto:21211a7205@bvrit.ac.in)
-- **Nitin Sagar B**
+  - [📧 Email](mailto:specialsusheel@gmail.com)
+  - - [🐙 GitHub](https://www.github.com/specialsusheel/)
+- **Susheel**
   - [📧 Email](mailto:21211a7207@bvrit.ac.in)
   - [🐙 GitHub](https://www.github.com/nitin-sagar-b/)
   - [💼 LinkedIn](https://www.linkedin.com/in/nitin-sagar-boyeena/)
